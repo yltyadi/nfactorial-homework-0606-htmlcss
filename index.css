@@ -115,3 +115,26 @@ p {
     height: 20px;
     background-color: green;
 }
+
+.row8 {
+    display: flex;
+    flex: 1;
+    justify-content: space-between;
+}
+
+.row8-yellow {
+    width: 80px;
+    background-color: goldenrod;
+}
+
+.row9 {
+    display: flex;
+    flex: 1;
+    justify-content: space-evenly;
+    background-color: goldenrod;
+}
+
+.row9-green {
+    width: 20px;
+    background-color: green;
+}
